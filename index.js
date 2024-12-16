@@ -240,23 +240,25 @@ const myNum= [1,2,3,4,5,6,7,8,9,10]
 //console.log(total);
 
 
-const shoppingCart = 
-[
-    {
-        item: "js course",
-        price:999
-    },
-    {
-        item: "java course",
-        price:899
-    },
-    {
-        item: "c++ course",
-        price:799
-    },
-]
+//const shoppingCart = 
+//[
+//    {
+//        item: "js course",
+//        price:999
+//    },
+//    {
+//        item: "java course",
+//        price:899
+//    },
+//    {
+//        item: "c++ course",
+//        price:799
+//    },
+//]
+//
+//const total = shoppingCart.reduce( (acc,item) =>( acc+item.price),0 )
+//console.log("Total price of courses: ",total);
 
-const total = shoppingCart.reduce( (acc,item) =>( acc+item.price),0 )
-console.log("Total price of courses: ",total);
+
 
 
